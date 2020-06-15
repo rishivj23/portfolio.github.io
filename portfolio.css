@@ -94,6 +94,7 @@ padding-top: 10px;
   padding-top: 200px;
 }
 .content-div h1 {
+     margin-top: 20px;
   font-weight: bold;
   margin-bottom: 40px;
 }
@@ -359,7 +360,7 @@ padding-top: 10px;
  
 }
 .feature-content h1{
-  margin-top: 70px;
+  margin-top: 100px;
   font-size: 20px;
 }
 .frontend-icon{
