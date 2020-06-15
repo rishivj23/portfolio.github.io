@@ -345,7 +345,7 @@ padding-top: 10px;
 .project-list ol li{
   color: white;
   font-size: 20px;
-  margin: 0px;
+  margin: 10px;
   margin-left: 100px;
   font-weight: bold;
 }
@@ -356,7 +356,7 @@ padding-top: 10px;
 }
 .feature-content,.feature-image{
   height: 28.5vh;
-  border: 1px solid black;
+ 
 }
 .feature-content h1{
   font-size: 20px;
